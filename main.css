@@ -1,0 +1,24 @@
+
+#logo{
+	color: #C6127D;
+	margin-left: 70px;
+
+	text-shadow: 2px 2px 5px red;
+}
+#section1{
+	background-image: url("a.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color:#C6127D;
+	height: 600px;
+	width: 100%;
+	margin-top: 40px;
+	background-color: black;
+}
+#footer{
+	height: 100px;
+	
+}
+div.transbox {
+  
+}
